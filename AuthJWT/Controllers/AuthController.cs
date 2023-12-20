@@ -42,9 +42,12 @@ namespace Auth_Pro.Controllers
 
             // Check if the user has the "admin" role
             // User is not authorized as an admin
+            string imageUrl = "www.image.com";
             Authentication authentication = new Authentication(_configuration);
-            var token = authentication.GenerateJwtToken(user.role != null ? user.role : "UnRole", user.id);
-            return Ok(new { Token = token });
+            var token = authentication.GenerateJwtToken(user.role, user.id,imageUrl);
+            return Ok(new { Token = token,
+                imageUrl = imageUrl
+            });
         }
         [HttpPost]
         public IActionResult addUser(UserView userView)

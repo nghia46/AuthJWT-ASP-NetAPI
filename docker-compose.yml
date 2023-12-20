@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  authjwt:
+    image: ${DOCKER_REGISTRY-}authjwt
+    build:
+      context: .
+      dockerfile: AuthJWT/Dockerfile

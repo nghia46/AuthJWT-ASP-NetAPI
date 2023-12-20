@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\AuthJWT\\AuthJWT\\AuthJWT.csproj": {}
+    "D:\\Repo\\AuthJWT\\AuthJWT\\AuthJWT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\AuthJWT\\AuthJWT\\AuthJWT.csproj": {
+    "D:\\Repo\\AuthJWT\\AuthJWT\\AuthJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\AuthJWT\\AuthJWT\\AuthJWT.csproj",
+        "projectUniqueName": "D:\\Repo\\AuthJWT\\AuthJWT\\AuthJWT.csproj",
         "projectName": "AuthJWT",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\AuthJWT\\AuthJWT\\AuthJWT.csproj",
+        "projectPath": "D:\\Repo\\AuthJWT\\AuthJWT\\AuthJWT.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\AuthJWT\\AuthJWT\\obj\\",
+        "outputPath": "D:\\Repo\\AuthJWT\\AuthJWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[7.0.11, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.4, )"
+            },
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.21.0, )"
@@ -76,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

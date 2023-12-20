@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mj576gG7GBFti9FEjOjqNVNszCJwBJ+sZf2oisiUDTPjg2kwmk05Eikx2+SsJ3EHXSy4EFHcIyW40hk8Xr8Yww==",
+  "dgSpecHash": "TxMhyHJ4bkgcwuypBxyi78exttgXXwr1xyuX43wQulWOufgaMJmzLmMy4s+gFyd/HfWubYDOB8LQBz1wILw6VA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AuthJWT\\AuthJWT\\AuthJWT.csproj",
+  "projectFilePath": "D:\\Repo\\AuthJWT\\AuthJWT\\AuthJWT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
@@ -19,6 +19,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\mongodb.driver\\2.21.0\\mongodb.driver.2.21.0.nupkg.sha512",
